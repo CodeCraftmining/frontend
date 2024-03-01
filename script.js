@@ -24,3 +24,16 @@ console.log("5 != 2", a != b);//true
 let a = 5; //number
 let b = "6"; //string 
 console.log("a !== b", a !== b);//true
+//console.log("5 != 2", a != b);//true
+let a = 5; //number
+let b = "6"; //string 
+console.log("a !== b", a !== b);//true
+//logical operators
+let a = 5; 
+let b = 6;
+let cond1 = a>b;//true
+let cond2 = a===b;//true
+console.log("cond1 && cond2 =", cond1 && cond2);
+
+  
+ 
