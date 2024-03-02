@@ -66,3 +66,12 @@ if  (mode === "light") {
 }
 
 console.log(color);
+
+let age = 25;
+
+
+if (age >= 18) {
+    console.log("vote");
+} else {
+    console.log("not vote");
+}
