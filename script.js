@@ -1,16 +1,6 @@
 //conditional statemnts
 
-let mode = "silver";
-let color;
+let age = 25;
 
-if (mode === "dark") {
-    color = "black";
-} else if (mode === "blue") {
-    color = "blue";
-} else if (mode === "pink") {
-    color = "pink";
-}  else {
-    color = "white";
-}
-
-console.log(color);
+let result = age >= 18 ? "adult" : "not adult";
+console.log(result);
