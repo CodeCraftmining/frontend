@@ -1,3 +1,3 @@
-alert("hello harsh!"); //one time pomp
+let name = prompt("hello!");
 
-promot("hello!");
+console.log(name);
