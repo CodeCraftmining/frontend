@@ -1,5 +1,5 @@
-for (let count = 1; count <= 5; count++) {
-   console.log("apna college");//5execute
+for (let count = 1; count <= 3; count++) {
+   console.log("how are you harsh tripathi");//3execute
 }
 
 console.log("loop has ended");
