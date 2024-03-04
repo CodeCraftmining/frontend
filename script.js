@@ -1,6 +1,6 @@
 //practice Qs2
 
-let score = 33;
+let score = prompt("enter your score (0-100):");
 let grade; 
 
 
