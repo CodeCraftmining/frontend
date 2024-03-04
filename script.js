@@ -1,7 +1,7 @@
 //practice Qs2
 
-let score = 75;
-let grade;
+let score = 95;
+let grade; 
 
 
 if(score >= 90 && score <=100)  {
