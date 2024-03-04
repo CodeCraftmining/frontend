@@ -1,6 +1,6 @@
 //practice Qs2
 
-let score = 95;
+let score = 33;
 let grade; 
 
 
