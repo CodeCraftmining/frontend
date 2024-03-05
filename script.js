@@ -1,5 +1,7 @@
-for (let count = 1; count <= 1000; count++) {
-   console.log("how are you harsh tripathi");//1000execute
+//calculate sum of 1 to 5
+let  sum = 0;
+for(let i = 1; i <= 5; i++)  {
+   sum = sum + i;
 }
-
+console.log("sum = ", sum);
 console.log("loop has ended");
