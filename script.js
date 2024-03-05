@@ -1,6 +1,6 @@
 //calculate sum of 1 to n
 let  sum = 0;
-let n = 6;
+let n = 7;
 for(let i = 1; i <= 5; i++)  {
    sum = sum + i;
 }
