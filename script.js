@@ -5,8 +5,8 @@
 // }
 
 
-let i = 20;
+let i = 1;
 do {
-   console.log("harsh tripathi");
+   console.log("i=", i);
    i++
-} while (i <= 10);
+} while (i <= 5);
