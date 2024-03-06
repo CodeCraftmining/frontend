@@ -4,9 +4,10 @@
 // i++;
 // }
 
+//for-of loop
 
-let i = 1;
-do {
+let str = "HarshTripathi";
+
+for (let i of str) {
    console.log("i=", i);
-   i++
-} while (i <= 100);
+}
