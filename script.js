@@ -6,8 +6,8 @@
 
 //for-of loop
 
-let str = "HarshTripathi";
+let str = "JavaScript";
 
-for (let i of str) {
+for (let i of str) { //iterator characters 
    console.log("i=", i);
 }
