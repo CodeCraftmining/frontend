@@ -1,10 +1,4 @@
-let student = {
-   name: "Rahul Kumar",
-   age: 20,
-   cgpa: 7.5,
-   isPass: true
-};
-
-for(let key in student) {
-   console.log("key=", key, "value", student[key]);
+//practice Qs1
+for(let num=0; num<= 100; num++)  {
+   console.log("num =", num);
 }
