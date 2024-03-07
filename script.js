@@ -1,9 +1,10 @@
-let str = "JavaScript";
+let student = {
+   name: "Rahul Kumar",
+   age: 20,
+   cgpa: 7.5,
+   isPass: true
+};
 
-let size = 0;
-for (let i of str) { //iterator characters 
-   console.log("i=", i);
-   size++;
+for(let i in student) {
+   console.log(i);
 }
-
-console.log("string size = ", size);
