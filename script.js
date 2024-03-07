@@ -1,7 +1,5 @@
-//practice Qs1
-for(let num=0; num<= 100; num++)  {
-   if(num % 2 !== 0)  {
-      //odd number
-      console.log("num =", num);
-   }
-}
+//practice Qs2
+let gameNum = 25;
+
+let userNum = prompt("Guess the game number :");
+console.log(userNum)
