@@ -1,4 +1,3 @@
-//Strings
-let str = "harsh tripathi"
+let specialString = 'This is a template literal';
 
-console.log(str[10]);
+console.log(specialString);
