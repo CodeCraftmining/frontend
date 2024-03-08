@@ -1,3 +1,4 @@
 //Strings
-let str = "harsh tripathi";
-let str2 = "apna college";
+let str = "harsh tripathi"
+
+console.log(str[2]);
