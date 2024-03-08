@@ -3,7 +3,7 @@ let gameNum = 25;
 
 let userNum = prompt("Guess the game number :");
 
-while(userNum !== gameNum)  { //game
+while(userNum != gameNum)  { //game
 userNum = prompt("you entered wrong number. Gauess again :");
 }
 
