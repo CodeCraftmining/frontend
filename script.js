@@ -1,4 +1,4 @@
 //Strings
 let str = "harsh tripathi"
 
-console.log(str[2]);
+console.log(str[10]);
