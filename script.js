@@ -1,2 +1,2 @@
 //Template Literals
-console.log("harsh \n tripathi");
+console.log("harsh \t tripathi");
