@@ -3,8 +3,9 @@ let obj = {
     price: 10,
 };
 
-console.log("the cost of", obj.item, "is", obj.price, "rupes")
 
+let output = 'the cost of ${obj.item} is ${obj.price} rupes';
+console.log(output);
 
 
 let specialString = 'This is a template literal';
