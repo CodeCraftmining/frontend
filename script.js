@@ -1,2 +1,3 @@
 //Template Literals
-console.log("harsh \t tripathi");
+let str = ("harsh \t tripathi");//12
+console.log(str.length);
