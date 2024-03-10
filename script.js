@@ -1,2 +1,2 @@
-let str = "      How Are  YOU       Harsh";
-console.log(str.trim());
+let str = "023456";
+console.log(str.slice(1, 3));
