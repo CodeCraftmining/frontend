@@ -1,4 +1,2 @@
-let str = "ApnaCollege";
-let newStr = str.tolowerCase();
-console.log(str);
-console.log(newStr);
+let str = "      How Are  YOU       Harsh";
+console.log(str.trim());
