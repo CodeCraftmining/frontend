@@ -1,3 +1,4 @@
 let str = "ApnaCollege";
-str.toUpperCase();
+let newStr = str.toupperCase();
 console.log(str);
+console.log(newStr);
