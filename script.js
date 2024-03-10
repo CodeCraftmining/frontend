@@ -1,3 +1,3 @@
-//Template Literals
-let str = ("harsh \t tripathi");//12
-console.log(str.length);
+let str = "ApnaCollege";
+str.toUpperCase();
+console.log(str);
