@@ -1,5 +1,5 @@
 let str1 = "harsh";
 let str2 = "tripathi";
 
-let res = str2.concat(str1);
+let res = str1 + str2;
 console.log(res);
