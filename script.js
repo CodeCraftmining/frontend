@@ -1,2 +1,2 @@
-let str = "023456789";
-console.log(str.slice(1, 6));
+let str = "hello";
+console.log(str.slice(0, 3));
