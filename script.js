@@ -1,2 +1,2 @@
 let str = "hello";
-console.log(str.slice(0, 3));
+console.log(str.slice(1, 3));
