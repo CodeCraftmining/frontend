@@ -1,3 +1,3 @@
-let str = "hello";
+let str = "hellololo";
 
 console.log(str.replace("lo", "m"));
