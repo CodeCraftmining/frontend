@@ -1,5 +1,3 @@
-let str1 = "harsh";
-let str2 = "tripathi";
+let str = "hello";
 
-let res = "hello" +123
-console.log(res);
+console.log(str.replace("h", "y"));
