@@ -1,4 +1,3 @@
-let str = "I love js";
-str = str.replace("I", "s");
+let fullName = prompt("enter your fullname without space");
 
-console.log(str);//slovejs
+console.log(fullName);
