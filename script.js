@@ -1,4 +1,4 @@
 let str = "I love js";
-str[0] = "s"
+str = str.replace("I", "s");
 
 console.log(str);//slovejs
