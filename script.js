@@ -1,4 +1,3 @@
-let fullName = prompt("enter your fullname without space");
-
-let username = "@" + fullName + fullName.length;
-console.log(username);
+let maarks = [97, 85, 45, 64, 36];
+console.log(marks);
+console.log(marks.length); //property
