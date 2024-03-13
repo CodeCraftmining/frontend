@@ -1,3 +1,4 @@
 let str = "I love js";
+str[0] = "s"
 
-console.log(str.charAt(0));
+console.log(str);//slovejs
