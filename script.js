@@ -1,10 +1,5 @@
-let heroes = ["ironman", "thor", "hulk", "spiderman", "antman"];
+let cities = ["delhi", "pune", "mumbai", "hyderabad", "gurgaon"];
 
-for(let idx=0; i < heroes.length; i++){
-    console.log(heroes[i]);
-}
-
-
-for (let hero of heroes) {
-    console.log(hero);
+for(let city of cities) {
+    console.log(city);
 }
