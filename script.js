@@ -6,4 +6,6 @@ for(let val of marks )  {
     sum += val;
 }
 
-console.log(sum);
+let avg = sum / mark .length;
+
+console.log('avg mark of the class = ${avg}');
