@@ -1,5 +1,7 @@
-let cities = ["delhi", "pune", "mumbai", "hyderabad", "gurgaon"];
+let marks = [85, 97, 44, 37, 76, 60];
 
-for(let city of cities) {
-    console.log(city.toUpperCase);
+let sum = 0;
+
+for(let val of marks )  {
+    console.log(val);
 }
