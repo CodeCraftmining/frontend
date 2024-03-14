@@ -1,5 +1,5 @@
 let heroes = ["ironman", "thor", "hulk", "spiderman", "antman"];
 
-for(let idx=0; idx < heroes.length; idex++){
-    console.log(heroes[idx]);
+for(let idx=0; i < heroes.length; i++){
+    console.log(heroes[i]);
 }
