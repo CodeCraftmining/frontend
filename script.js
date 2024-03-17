@@ -1,6 +1,4 @@
-let foodItem = ["potato", "apple", "tomato"];
-let marks = [97, 86, 54, 36];
+let marvel_heroes = ["thor", "spiderman", "ironman"];
 
-console.log(foodItem); 
-console.log(foodItem.toString());
-console.log(foodItem); 
+marvel_heroes.concat(dcHeroes);
+console.log(heroes);
