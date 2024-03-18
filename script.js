@@ -1,4 +1,5 @@
-let marvel_heroes = ["thor", "spiderman", "ironman"];
+let marvel_heroes = ["thor", "spiderman", "ironman", "antman", "Dr.strang"];
 
-let val = marvlHeroes.shift();
-console.log("delected", val);
+console.log(marvelHeroes);
+
+console.log(marvelHeroes.slice(1, 2));
