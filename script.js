@@ -1,3 +1,4 @@
 let marvel_heroes = ["thor", "spiderman", "ironman"];
 
-marvelHeroes.unshift("antman");
+let val = marvlHeroes.shift();
+console.log("delected", val);
