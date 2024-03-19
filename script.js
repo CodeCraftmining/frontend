@@ -7,3 +7,6 @@ let arr = [1, 2, 3, 4, 5, 6 , 7,];
 
 //Delecte Element 
 arr.splice(3, 1);
+
+//Replace Element
+arr.splice(3, 1, 101);
