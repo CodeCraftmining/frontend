@@ -1,12 +1,4 @@
-let arr = [1, 2, 3, 4, 5, 6 , 7,];
+let compines = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Net"];
 
-//arr.splice(2, 2, 101, 102);
+compines.shift();
 
-//add element
-//arr.splice(2, 0, 101);
-
-//Delecte Element 
-arr.splice(3, 1);
-
-//Replace Element
-arr.splice(3, 1, 101);
