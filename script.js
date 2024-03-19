@@ -1,4 +1,4 @@
 let compines = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Net"];
 
-compines.shift();
+compines.slice(2, 1, "Ola");
 
