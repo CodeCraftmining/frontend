@@ -1,4 +1,7 @@
-let compines = ["Bloomberg", "Microsoft", "Uber", "Google", "IBM", "Net"];
+console.log("hello!");
 
-compines.push("Amazon");
+"abc".toUpperCase()
+"xyz".toUpperCase
 
+
+[1, 2, 3,].push(4);
