@@ -5,3 +5,6 @@ function myfunction() {
 
 myfunction();
 myfunction();
+myfunction();
+myfunction();
+myfunction();
