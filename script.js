@@ -5,4 +5,5 @@ function sum(x, y){
     return sum;
 }
 
-sum(3, 4);
+let val = sum(3, 4);
+console.log(val);
