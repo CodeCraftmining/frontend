@@ -1,8 +1,8 @@
-function myfunction() {
+function myfunction(msg) {
     //parameter -> input
     console.log(msg);
       
 }
 
-myfunction();
+myfunction("I love js");
 
