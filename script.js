@@ -3,7 +3,7 @@
 function sum(x, y){
     //local variable -> scope
     s = x + y;
-    console.log("before return");
+    console.log("x");
     return s;
 }
 
