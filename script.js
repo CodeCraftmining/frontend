@@ -1,8 +1,5 @@
-function myfunction(msg) {
-    //parameter -> input
-    console.log(msg);
-      
+//function-> 2 numbers, sum
+
+function sum(x, y){
+    connsole.log(x + y);
 }
-
-myfunction("I love js");
-
