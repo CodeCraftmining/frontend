@@ -2,7 +2,9 @@
 
 function sum(x, y){
     summ = x + y;
-    return sum;
+    console.log("before return");
+    return s;
+    console.log("after return");
 }
 
 let val = sum(3, 4);
