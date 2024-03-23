@@ -9,5 +9,5 @@ function mul(a, b) {
 }
 
 const arrowMul = (a, b) => {
-    console.log(a * b);
+    return a*b
 };
