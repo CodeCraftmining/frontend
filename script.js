@@ -8,6 +8,6 @@ function mul(a, b) {
     return a * b;
 }
 
-const arrowMul = (a, b) => {
-    return a*b
+let arrowMul = (a, b) => {
+    return a * b;
 };
