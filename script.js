@@ -11,3 +11,5 @@ function mul(a, b) {
 let arrowMul = (a, b) => {
     return a * b;
 };
+
+arrowMul = 5;
