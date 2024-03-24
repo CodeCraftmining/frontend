@@ -1,6 +1,5 @@
-let arrowMul = (a, b) => {
-    return a * b;
-
-};
-
-const printHello = () => console.log("hello");
+function countVowels(str) {
+    for (const char of str) {
+        console.log(char);
+    }
+}
