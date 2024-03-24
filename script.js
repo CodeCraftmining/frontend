@@ -1,22 +1,5 @@
-function countVowels(str) {
-    let count = 0;
-    for (const char of str) {
-        console.log(char);
-     if(char === "a" || char === "e" || char === "i" || char === "o" || char === "u"){
-        count++;
-     }
-    }
-return count;
-}
+let arr = [1, 2, 3, 4, 5,];
 
-const countVow = (str) => {
-    
-        let count = 0;
-        for (const char of str) {
-            console.log(char);
-         if(char === "a" || char === "e" || char === "i" || char === "o" || char === "u"){
-            count++;
-         }
-        }
-        console.log(count);
-    };
+arr.forEach(function printVal(val) {
+    console.log(val);
+});
