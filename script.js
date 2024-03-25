@@ -1,7 +1,7 @@
 let num = [67, 85, 46];
 
 let newArr = num.map((val) => {
-    return val;
+    return val * val;
 });
 
 console.log(newArr);
