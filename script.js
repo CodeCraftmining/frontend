@@ -1,7 +1,8 @@
-let arr = [1, 2, 3, 4, 5, 6, 7];
+let arr = [1, 2, 3, 4];
 
-let evenArr = arr.filter((val) =>  {
-    return val > 3;
-
+arr.reduce((res, Curr) => {
+ return res + Curr;
 });
-console.log(evenArr);
+
+
+console.log(output);
