@@ -1,12 +1,7 @@
-let num = [67, 85, 46];
+let arr = [1, 2, 3, 4, 5, 6, 7];
 
-let newArr = num.map((val) => {
-    return  val * 2;
+let evenArr = arr.filter((val) =>  {
+    return val % 2 === 0;
 
 });
-
-console.log(newArr);
-
-let calcSquare = (num) =>  {
-    console.log(num * num);
-};
+console.log(evenArr);
