@@ -1,7 +1,7 @@
 let arr = [1, 2, 3, 4];
 
-arr.reduce((res, Curr) => {
- return res + Curr;
+arr.reduce((prev, Curr) => {
+ return prev + Curr;
 });
 
 
