@@ -1,6 +1,7 @@
-let arr = [5, 6, 2, 101, 3];
-const output = arr.reduce((prev, curr)  => {
-    return prev > curr ? prev : curr;
+let marks = [97, 64, 32, 49, 99, 96, 86];
 
-});
-console.log(ouput);
+let toppers = marks.filter((val)  => {
+    return val > 90;
+})
+
+console.log(toppers);
