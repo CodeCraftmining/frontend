@@ -1,7 +1,10 @@
-let marks = [97, 64, 32, 49, 99, 96, 86];
+let n = prompt("eneter a number :");
 
-let toppers = marks.filter((val)  => {
-    return val > 90;
-})
+let arr = [];
 
-console.log(toppers);
+for(let i=1; i<=n; i++)  {
+    arr[i-1] = i;
+}
+
+
+console.log(arr);
